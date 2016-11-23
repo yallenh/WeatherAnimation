@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9125137A1DE421A000B028D8 /* HRHomeWeatherHoursCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 912513791DE421A000B028D8 /* HRHomeWeatherHoursCell.m */; };
+		9125137C1DE4245200B028D8 /* HRHomeWeatherHourCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9125137B1DE4245200B028D8 /* HRHomeWeatherHourCell.xib */; };
+		917C2AC81DE2D3630062C5A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 917C2AC71DE2D3630062C5A9 /* main.m */; };
+		917C2ACB1DE2D3630062C5A9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 917C2ACA1DE2D3630062C5A9 /* AppDelegate.m */; };
+		917C2ACE1DE2D3630062C5A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 917C2ACD1DE2D3630062C5A9 /* ViewController.m */; };
+		917C2AD11DE2D3630062C5A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 917C2ACF1DE2D3630062C5A9 /* Main.storyboard */; };
+		917C2AD31DE2D3630062C5A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 917C2AD21DE2D3630062C5A9 /* Assets.xcassets */; };
+		917C2AD61DE2D3630062C5A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 917C2AD41DE2D3630062C5A9 /* LaunchScreen.storyboard */; };
+		918030621DE2DC3900856B4F /* HRHomeWeatherScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 918030611DE2DC3900856B4F /* HRHomeWeatherScene.m */; };
+		918549421DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 918549411DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.m */; };
+		91CF39071DE4047500CA9DA6 /* HRHomeWeatherTemperatureCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 91CF39061DE4047500CA9DA6 /* HRHomeWeatherTemperatureCell.xib */; };
+		91CF390B1DE4133B00CA9DA6 /* UIImage+ColorReplacement.m in Sources */ = {isa = PBXBuildFile; fileRef = 91CF390A1DE4133B00CA9DA6 /* UIImage+ColorReplacement.m */; };
+		91F8F0211DE554AC001E49F0 /* HRHomeWeather.atlasc in Resources */ = {isa = PBXBuildFile; fileRef = 91F8F0201DE554AC001E49F0 /* HRHomeWeather.atlasc */; };
+		91F8F0251DE5550F001E49F0 /* HRHomeWeatherCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 91F8F0241DE5550F001E49F0 /* HRHomeWeatherCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		912513781DE421A000B028D8 /* HRHomeWeatherHoursCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRHomeWeatherHoursCell.h; sourceTree = "<group>"; };
+		912513791DE421A000B028D8 /* HRHomeWeatherHoursCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRHomeWeatherHoursCell.m; sourceTree = "<group>"; };
+		9125137B1DE4245200B028D8 /* HRHomeWeatherHourCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HRHomeWeatherHourCell.xib; sourceTree = "<group>"; };
+		917C2AC31DE2D3620062C5A9 /* Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		917C2AC71DE2D3630062C5A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		917C2AC91DE2D3630062C5A9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		917C2ACA1DE2D3630062C5A9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		917C2ACC1DE2D3630062C5A9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		917C2ACD1DE2D3630062C5A9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		917C2AD01DE2D3630062C5A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		917C2AD21DE2D3630062C5A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		917C2AD51DE2D3630062C5A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		917C2AD71DE2D3630062C5A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		918030601DE2DC3900856B4F /* HRHomeWeatherScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRHomeWeatherScene.h; sourceTree = "<group>"; };
+		918030611DE2DC3900856B4F /* HRHomeWeatherScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRHomeWeatherScene.m; sourceTree = "<group>"; };
+		918549401DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRHomeWeatherTemperatureCell.h; sourceTree = "<group>"; };
+		918549411DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRHomeWeatherTemperatureCell.m; sourceTree = "<group>"; };
+		91CF39061DE4047500CA9DA6 /* HRHomeWeatherTemperatureCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HRHomeWeatherTemperatureCell.xib; sourceTree = "<group>"; };
+		91CF39091DE4133B00CA9DA6 /* UIImage+ColorReplacement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+ColorReplacement.h"; path = "Utils/UIImage+ColorReplacement.h"; sourceTree = "<group>"; };
+		91CF390A1DE4133B00CA9DA6 /* UIImage+ColorReplacement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+ColorReplacement.m"; path = "Utils/UIImage+ColorReplacement.m"; sourceTree = "<group>"; };
+		91F8F0201DE554AC001E49F0 /* HRHomeWeather.atlasc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = HRHomeWeather.atlasc; path = ../../../../../Downloads/HRHomeWeather.atlasc; sourceTree = "<group>"; };
+		91F8F0221DE554C2001E49F0 /* HRHomeWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HRHomeWeather.h; path = ../../../../../Downloads/HRHomeWeather.h; sourceTree = "<group>"; };
+		91F8F0231DE5550F001E49F0 /* HRHomeWeatherCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HRHomeWeatherCell.h; sourceTree = "<group>"; };
+		91F8F0241DE5550F001E49F0 /* HRHomeWeatherCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HRHomeWeatherCell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		917C2AC01DE2D3620062C5A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		917C2ABA1DE2D3620062C5A9 = {
+			isa = PBXGroup;
+			children = (
+				917C2AC51DE2D3630062C5A9 /* Animation */,
+				917C2AC41DE2D3620062C5A9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		917C2AC41DE2D3620062C5A9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				917C2AC31DE2D3620062C5A9 /* Animation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		917C2AC51DE2D3630062C5A9 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				91F8F0221DE554C2001E49F0 /* HRHomeWeather.h */,
+				91F8F0201DE554AC001E49F0 /* HRHomeWeather.atlasc */,
+				917C2AC91DE2D3630062C5A9 /* AppDelegate.h */,
+				917C2ACA1DE2D3630062C5A9 /* AppDelegate.m */,
+				917C2ACC1DE2D3630062C5A9 /* ViewController.h */,
+				917C2ACD1DE2D3630062C5A9 /* ViewController.m */,
+				91F8F0231DE5550F001E49F0 /* HRHomeWeatherCell.h */,
+				91F8F0241DE5550F001E49F0 /* HRHomeWeatherCell.m */,
+				918549401DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.h */,
+				918549411DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.m */,
+				91CF39061DE4047500CA9DA6 /* HRHomeWeatherTemperatureCell.xib */,
+				912513781DE421A000B028D8 /* HRHomeWeatherHoursCell.h */,
+				912513791DE421A000B028D8 /* HRHomeWeatherHoursCell.m */,
+				9125137B1DE4245200B028D8 /* HRHomeWeatherHourCell.xib */,
+				918030601DE2DC3900856B4F /* HRHomeWeatherScene.h */,
+				918030611DE2DC3900856B4F /* HRHomeWeatherScene.m */,
+				91CF39081DE412FD00CA9DA6 /* Utils */,
+				917C2ACF1DE2D3630062C5A9 /* Main.storyboard */,
+				917C2AD21DE2D3630062C5A9 /* Assets.xcassets */,
+				917C2AD41DE2D3630062C5A9 /* LaunchScreen.storyboard */,
+				917C2AD71DE2D3630062C5A9 /* Info.plist */,
+				917C2AC61DE2D3630062C5A9 /* Supporting Files */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
+		917C2AC61DE2D3630062C5A9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				917C2AC71DE2D3630062C5A9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		91CF39081DE412FD00CA9DA6 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				91CF39091DE4133B00CA9DA6 /* UIImage+ColorReplacement.h */,
+				91CF390A1DE4133B00CA9DA6 /* UIImage+ColorReplacement.m */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		917C2AC21DE2D3620062C5A9 /* Animation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 917C2ADA1DE2D3630062C5A9 /* Build configuration list for PBXNativeTarget "Animation" */;
+			buildPhases = (
+				917C2ABF1DE2D3620062C5A9 /* Sources */,
+				917C2AC01DE2D3620062C5A9 /* Frameworks */,
+				917C2AC11DE2D3620062C5A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Animation;
+			productName = Animation;
+			productReference = 917C2AC31DE2D3620062C5A9 /* Animation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		917C2ABB1DE2D3620062C5A9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Yahoo;
+				TargetAttributes = {
+					917C2AC21DE2D3620062C5A9 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 917C2ABE1DE2D3620062C5A9 /* Build configuration list for PBXProject "Animation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 917C2ABA1DE2D3620062C5A9;
+			productRefGroup = 917C2AC41DE2D3620062C5A9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				917C2AC21DE2D3620062C5A9 /* Animation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		917C2AC11DE2D3620062C5A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91CF39071DE4047500CA9DA6 /* HRHomeWeatherTemperatureCell.xib in Resources */,
+				9125137C1DE4245200B028D8 /* HRHomeWeatherHourCell.xib in Resources */,
+				917C2AD61DE2D3630062C5A9 /* LaunchScreen.storyboard in Resources */,
+				91F8F0211DE554AC001E49F0 /* HRHomeWeather.atlasc in Resources */,
+				917C2AD31DE2D3630062C5A9 /* Assets.xcassets in Resources */,
+				917C2AD11DE2D3630062C5A9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		917C2ABF1DE2D3620062C5A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91CF390B1DE4133B00CA9DA6 /* UIImage+ColorReplacement.m in Sources */,
+				918030621DE2DC3900856B4F /* HRHomeWeatherScene.m in Sources */,
+				9125137A1DE421A000B028D8 /* HRHomeWeatherHoursCell.m in Sources */,
+				917C2ACE1DE2D3630062C5A9 /* ViewController.m in Sources */,
+				917C2ACB1DE2D3630062C5A9 /* AppDelegate.m in Sources */,
+				91F8F0251DE5550F001E49F0 /* HRHomeWeatherCell.m in Sources */,
+				917C2AC81DE2D3630062C5A9 /* main.m in Sources */,
+				918549421DE3EA860036FAE3 /* HRHomeWeatherTemperatureCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		917C2ACF1DE2D3630062C5A9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				917C2AD01DE2D3630062C5A9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		917C2AD41DE2D3630062C5A9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				917C2AD51DE2D3630062C5A9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		917C2AD81DE2D3630062C5A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		917C2AD91DE2D3630062C5A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		917C2ADB1DE2D3630062C5A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Animation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yahoo.twNews.Animation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		917C2ADC1DE2D3630062C5A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Animation/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yahoo.twNews.Animation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		917C2ABE1DE2D3620062C5A9 /* Build configuration list for PBXProject "Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				917C2AD81DE2D3630062C5A9 /* Debug */,
+				917C2AD91DE2D3630062C5A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		917C2ADA1DE2D3630062C5A9 /* Build configuration list for PBXNativeTarget "Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				917C2ADB1DE2D3630062C5A9 /* Debug */,
+				917C2ADC1DE2D3630062C5A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 917C2ABB1DE2D3620062C5A9 /* Project object */;
+}
